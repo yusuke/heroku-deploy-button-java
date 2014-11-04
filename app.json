@@ -1,0 +1,11 @@
+{
+  "name": "Heroku Deploy Button Java",
+  "description": "Heroku Deploy Button Java",
+  "logo": "https://duke.kenai.com/iconSized/duke.gif",
+  "success_url": "/",
+  "keywords": [
+    "heroku",
+    "java",
+    "java8"
+  ]
+}
